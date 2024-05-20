@@ -1,0 +1,11 @@
+.line-graph-container {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.line-graph {
+    position: relative;
+    height: 400px;
+    /* Adjust height as needed */
+    width: 100%;
+}
